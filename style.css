@@ -145,8 +145,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  max-height: 76px;
+  margin: -19px 0px;
 }
 
 .main-pages {
@@ -273,6 +273,11 @@ h6 {
 a:hover:after { 
   width: 100%; 
   left: 0; 
+}
+
+.governor {
+  width: 69%;
+  margin-top: -140px;
 }
 
 /* Mobile Navigation */
@@ -1324,13 +1329,15 @@ a:hover:after {
     width: 100%;
   }
 
-  #testimonials .testimonial-item {
-    text-align: center;
+  #header .logo img {
+    padding: 0;
+    margin: -13px 0;
+    max-height: 67px;
   }
 
-  #testimonials .testimonial-item .testimonial-img {
-    float: none;
-    margin: auto;
+  .governor {
+    width: 65%;
+    margin-top: -57px;
   }
 
   #testimonials .testimonial-item h3,
