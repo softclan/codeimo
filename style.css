@@ -145,8 +145,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  max-height: 76px;
-  margin: -19px 0px;
+  max-height: 66px;
+  margin: -14px 0px;
 }
 
 .main-pages {
@@ -180,6 +180,7 @@ h6 {
 #intro .intro-img {
   width: 50%;
   float: right;
+  margin-top: -160px;
 }
 
 #intro .intro-info {
@@ -1294,8 +1295,10 @@ a:hover:after {
   #intro .intro-img {
     width: 80%;
     float: none;
-    margin: 0 auto 25px auto;
+    margin-top: -24px;
+    margin-left: 37px;
   }
+  
 
   #intro .intro-info {
     width: 80%;
@@ -1332,7 +1335,7 @@ a:hover:after {
   #header .logo img {
     padding: 0;
     margin: -13px 0;
-    max-height: 67px;
+    max-height: 60px;
   }
 
   .governor {
