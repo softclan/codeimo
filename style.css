@@ -180,7 +180,6 @@ h6 {
 #intro .intro-img {
   width: 50%;
   float: right;
-  margin-top: -160px;
 }
 
 #intro .intro-info {
@@ -1293,10 +1292,8 @@ a:hover:after {
   }
 
   #intro .intro-img {
-    width: 80%;
-    float: none;
-    margin-top: -24px;
-    margin-left: 37px;
+    width: 50%;
+    float: right;
   }
   
 
