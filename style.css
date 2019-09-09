@@ -1292,8 +1292,9 @@ a:hover:after {
   }
 
   #intro .intro-img {
-    width: 50%;
-    float: right;
+    width: 80%;
+    float: none;
+    margin: 0 auto 25px auto;
   }
   
 
